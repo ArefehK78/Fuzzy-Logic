@@ -1,2 +1,6 @@
 # Fuzzy-Logic
-Implementation some example of fuzzy logic in Matlab
+Implementation some project in Matlab
+Fuzzy Logic controller
+Fuzzy Logic conditioner
+Tnorm
+Snorm
